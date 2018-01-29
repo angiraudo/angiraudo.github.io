@@ -1,0 +1,56 @@
+#mainjumbotron{
+  background-image: url(indiannose.jpg);
+  background-size: cover;
+  height: 400px;
+  color:white;
+}
+.display-4{
+  text-align: center;
+}
+
+#chinajumbotron{
+  background-image: url(shanghaibackground.jpg);
+  background-size: cover;
+  height: 500px;
+  color:white;
+}
+
+#argentinajumbotron{
+  background-image: url(obelisco.jpg);
+  background-size: cover;
+  height: 400px;
+  color:white;
+}
+
+#norwayjumbotron{
+  background-image: url(fjord.jpg);
+  background-size: cover;
+  height: 400px;
+  font-style: bold
+  color:white;
+}
+
+#aboutjumbotron{
+    background-image: url(mapbackground.jpg);
+    background-size: cover;
+    height: 400px;
+    color:white
+}
+
+.navbar{
+  font-family: 'Josefin Slab', serif;
+}
+
+h1{
+  font-family: 'Josefin Slab', serif;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Josefin Slab', serif;
+  font-weight: bold;
+}
+
+p{
+  font-family: 'Josefin Slab', serif;
+}
